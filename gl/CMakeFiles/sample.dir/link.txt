@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/sample.dir/HTAR.o  -o sample -rdynamic -lGL -lGLU -lglut 

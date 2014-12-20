@@ -1,0 +1,229 @@
+!SESSION 2012-02-02 22:57:48.984 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:11:04.272
+!MESSAGE The installable unit org.eclipse.equinox.launcher.gtk.linux.x86_64.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:11:04.272
+!MESSAGE The installable unit org.eclipse.jdt.compiler.tool.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:11:04.272
+!MESSAGE The installable unit org.eclipse.ecf.ssl.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:11:04.273
+!MESSAGE The installable unit org.eclipse.core.runtime.compatibility.registry.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:11:04.273
+!MESSAGE The installable unit org.eclipse.ecf.provider.filetransfer.ssl.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:11:04.274
+!MESSAGE The installable unit org.eclipse.core.resources.compatibility.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:11:04.279
+!MESSAGE The installable unit org.eclipse.equinox.launcher.gtk.linux.x86_64.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:11:04.280
+!MESSAGE The installable unit org.eclipse.jdt.compiler.tool.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:11:04.280
+!MESSAGE The installable unit org.eclipse.ecf.ssl.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:11:04.280
+!MESSAGE The installable unit org.eclipse.core.runtime.compatibility.registry.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:11:04.280
+!MESSAGE The installable unit org.eclipse.ecf.provider.filetransfer.ssl.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:11:04.281
+!MESSAGE The installable unit org.eclipse.core.resources.compatibility.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-02-02 23:11:07.546
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-02-02 23:11:07.546
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-02-02 23:11:07.547
+!MESSAGE Software being installed: Eclipse C/C++ Remote Launch 6.0.0.201002161416 (org.eclipse.cdt.launch.remote.feature.group 6.0.0.201002161416)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-02-02 23:11:07.547
+!MESSAGE Missing requirement: Eclipse C/C++ Remote Launch 6.0.0.201002161416 (org.eclipse.cdt.launch.remote.feature.group 6.0.0.201002161416) requires 'org.eclipse.rse.ui [3.0.0,4.0.0)' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-02-02 23:11:07.547
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-02-02 23:11:07.547
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-02-02 23:11:07.547
+!MESSAGE Software being installed: Eclipse C/C++ Remote Launch 6.0.0.201002161416 (org.eclipse.cdt.launch.remote.feature.group 6.0.0.201002161416)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-02-02 23:11:07.547
+!MESSAGE Missing requirement: Eclipse C/C++ Remote Launch 6.0.0.201002161416 (org.eclipse.cdt.launch.remote.feature.group 6.0.0.201002161416) requires 'org.eclipse.rse.ui [3.0.0,4.0.0)' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-02-02 23:11:07.554
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-02-02 23:11:07.554
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-02-02 23:11:07.554
+!MESSAGE Software being installed: Eclipse C/C++ Remote Launch 6.0.0.201002161416 (org.eclipse.cdt.launch.remote.feature.group 6.0.0.201002161416)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-02-02 23:11:07.554
+!MESSAGE Missing requirement: Eclipse C/C++ Remote Launch 6.0.0.201002161416 (org.eclipse.cdt.launch.remote.feature.group 6.0.0.201002161416) requires 'org.eclipse.rse.ui [3.0.0,4.0.0)' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-02-02 23:11:07.585
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-02-02 23:11:07.585
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-02-02 23:11:07.585
+!MESSAGE Software being installed: Eclipse C/C++ Remote Launch 6.0.0.201002161416 (org.eclipse.cdt.launch.remote.feature.group 6.0.0.201002161416)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-02-02 23:11:07.585
+!MESSAGE Missing requirement: Eclipse C/C++ Remote Launch 6.0.0.201002161416 (org.eclipse.cdt.launch.remote.feature.group 6.0.0.201002161416) requires 'org.eclipse.rse.ui [3.0.0,4.0.0)' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-02-02 23:11:25.578
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-02-02 23:11:25.578
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-02-02 23:11:25.579
+!MESSAGE Software being installed: Eclipse C/C++ Remote Launch 6.0.0.201002161416 (org.eclipse.cdt.launch.remote.feature.group 6.0.0.201002161416)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-02-02 23:11:25.579
+!MESSAGE Missing requirement: Eclipse C/C++ Remote Launch 6.0.0.201002161416 (org.eclipse.cdt.launch.remote.feature.group 6.0.0.201002161416) requires 'org.eclipse.rse.ui [3.0.0,4.0.0)' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-02-02 23:11:55.924
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-02-02 23:11:55.925
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-02-02 23:11:55.925
+!MESSAGE Software being installed: Eclipse C/C++ Remote Launch 6.0.0.201002161416 (org.eclipse.cdt.launch.remote.feature.group 6.0.0.201002161416)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-02-02 23:11:55.925
+!MESSAGE Missing requirement: Eclipse C/C++ Remote Launch 6.0.0.201002161416 (org.eclipse.cdt.launch.remote.feature.group 6.0.0.201002161416) requires 'org.eclipse.rse.ui [3.0.0,4.0.0)' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:13:01.086
+!MESSAGE The installable unit org.eclipse.core.resources.compatibility.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:13:01.087
+!MESSAGE The installable unit org.eclipse.jdt.compiler.tool.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:13:01.087
+!MESSAGE The installable unit org.eclipse.equinox.launcher.gtk.linux.x86_64.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:13:01.087
+!MESSAGE The installable unit org.eclipse.ecf.ssl.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:13:01.087
+!MESSAGE The installable unit org.eclipse.core.runtime.compatibility.registry.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:13:01.087
+!MESSAGE The installable unit org.eclipse.ecf.provider.filetransfer.ssl.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.ui.ide 4 4 2012-02-02 23:15:39.509
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2012-02-02 23:15:39.509
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2012-02-02 23:15:39.509
+!MESSAGE The project description file (.project) for 'Check' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SESSION 2012-02-02 23:15:40.941 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:15:43.900
+!MESSAGE The installable unit org.eclipse.core.resources.compatibility.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:15:43.901
+!MESSAGE The installable unit org.eclipse.jdt.compiler.tool.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:15:43.901
+!MESSAGE The installable unit org.eclipse.equinox.launcher.gtk.linux.x86_64.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:15:43.901
+!MESSAGE The installable unit org.eclipse.ecf.ssl.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:15:43.901
+!MESSAGE The installable unit org.eclipse.core.runtime.compatibility.registry.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:15:43.901
+!MESSAGE The installable unit org.eclipse.ecf.provider.filetransfer.ssl.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:15:43.966
+!MESSAGE The installable unit org.eclipse.core.resources.compatibility.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:15:43.966
+!MESSAGE The installable unit org.eclipse.jdt.compiler.tool.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:15:43.966
+!MESSAGE The installable unit org.eclipse.equinox.launcher.gtk.linux.x86_64.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:15:43.966
+!MESSAGE The installable unit org.eclipse.ecf.ssl.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:15:43.966
+!MESSAGE The installable unit org.eclipse.core.runtime.compatibility.registry.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-02-02 23:15:43.967
+!MESSAGE The installable unit org.eclipse.ecf.provider.filetransfer.ssl.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-02-02 23:17:34.771
+!MESSAGE Indexed 'HTAR' (1 sources, 147 headers) in 7.67 sec: 10,116 declarations; 15,083 references; 0 unresolved inclusions; 0 syntax errors; 133 unresolved names (0.53%)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2012-02-02 23:32:09.791
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /root/HTAR/HTAR/Debug/HTAR not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate.verifyProgramPath(AbstractCLaunchDelegate.java:455)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:83)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:69)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1069)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2012-02-02 23:32:09.792
+!MESSAGE /root/HTAR/HTAR/Debug/HTAR not found
+!STACK 0
+java.io.FileNotFoundException: /root/HTAR/HTAR/Debug/HTAR not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate.verifyProgramPath(AbstractCLaunchDelegate.java:455)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:83)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:69)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:853)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:866)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1069)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.debug.core 4 125 2012-02-02 23:37:17.381
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: read error
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read0(Native Method)
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read(SpawnerInputStream.java:66)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:273)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:334)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:636)
+
+!ENTRY org.eclipse.debug.core 4 125 2012-02-02 23:44:28.068
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: read error
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read0(Native Method)
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read(SpawnerInputStream.java:66)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:273)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:334)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:636)
+!SESSION 2012-02-04 00:17:42.921 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.cdt.core 1 0 2012-02-04 00:18:55.253
+!MESSAGE Indexed 'htar' (0 sources, 76 headers) in 1.54 sec: 2,084 declarations; 2,243 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
